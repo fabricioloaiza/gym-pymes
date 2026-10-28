@@ -1,0 +1,5 @@
+{
+  "name": "GymXXX · Renovación de membresía",
+  "description": "Prototipo del flujo TO BE para cobros por QR Simple de un gimnasio de barrio en Cochabamba: formulario del socio, verificación humana contra el banco, vencimientos con recordatorios por WhatsApp y revisión semanal del propietario. Datos simulados.",
+  "requestFramePermissions": []
+}
